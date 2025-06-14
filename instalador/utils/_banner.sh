@@ -16,7 +16,6 @@
 #   None
 #######################################
 print_banner() {
-  clear
 
 
 printf "${GREEN}";
