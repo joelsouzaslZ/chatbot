@@ -1,10 +1,10 @@
-# Atendechat
+# DizAí
 
-O Atendechat é uma empresa distribuidora de White Label que possui uma solução de atendimentos via Whatsapp que aumenta a produtividade e organização das equipes
+O DizAí é uma solução da empresa remotenyx distribuidora de White Label que possui uma solução de atendimentos via Whatsapp que aumenta a produtividade e organização das equipes
 
 ## 🚀 Começando
 
-O repositório do Atendechat possui 3 pastas importantes:
+O repositório do DizAí possui 3 pastas importantes:
 - backend
 - frontend
 - instalador
