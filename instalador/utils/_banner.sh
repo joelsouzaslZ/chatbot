@@ -25,7 +25,7 @@ printf "##  ##     ##     ######   ##  ##   #####    ######   ######   ##  ##   
 
 printf "\n"
 
-printf "2024 @ Todos os direitos reservados a https://atendechat.com\n"
+printf "2024 @ Todos os direitos reservados a https://remotenyx.com.br\n"
 
 
 
